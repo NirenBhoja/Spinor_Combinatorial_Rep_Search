@@ -1,6 +1,6 @@
 # SpinorRep
 
-A small Python utility for constructing binary matrix representations of spinors subject to a set of combinatorial constraints. Given the matrix dimensions, per-column sum limits, allowed per-row sums, and a maximum allowed overlap between any two rows, `SpinorRep` searches for a valid configuration by random column permutation with rejection sampling.
+A small Python utility for constructing binary matrix representations of spinors subject to a set of combinatorial constraints. Given the matrix dimensions, per-column sum limits, allowed per-row sums, and a maximum allowed overlap between any two rows, `SpinorRep` searches for a valid configuration.
 
 ## Authors
 
